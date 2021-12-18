@@ -1,0 +1,143 @@
+.tab-setting li a {
+    color: #999;
+    line-height: 30px;
+    border: 1px solid #C5D0DC;
+    border-radius: 5px;
+    border-bottom: none;
+    background: transparent;
+    font-size: 13px;
+    margin-right: -1px;
+    padding: 8px 12px;
+}
+
+.tab-setting li a:hover, .tab-setting li a:focus {
+    color: #0B87C9;
+    background: #fff;
+    outline: none;
+    border-top: 2px solid #0B87C9;
+    border-bottom: none;
+}
+
+.tab-setting li a i.fa {
+    color: #0B87C9;
+    font-size: 16px;
+}
+
+.tab-setting li.active a {
+    color: #0B87C9;
+    background: white !important;
+    outline: none;
+    border-top: 2px solid #0B87C9;
+    border-bottom: none;
+
+}
+
+ul.nav li.active a{
+    background-color: white !important;
+    border-right: 3px solid #2B7DBC;
+}
+
+.modal-header {
+    padding: 10px 15px;
+}
+
+.modal-footer {
+    background: #EFF3F8;
+    padding: 10px 15px 10px 10px;
+}
+
+.modal-title {
+    color: #777;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.modal-title i.fa {
+    color: #0B87C9;
+    font-size: 25px;
+}
+
+
+.report .dashboard-title {
+    border-bottom: 4px solid #0B87C9;
+    margin-top: 5px;
+    padding-bottom: 3px;
+    display: inline-block;
+    color: #0B87C9;
+}
+
+.report .dashboard-title i.fa {
+    padding-right: 8px;
+}
+
+.report .report-box {
+    color: rgb(61, 42, 42);
+    padding: 10px 0 10px 20px;
+    overflow: hidden;
+    min-height: 75px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.report .report-box .infobox-icon {
+    float: left;
+    min-height: 100%;
+}
+
+.report .report-box .infobox-icon i.fa {
+    font-size: 30px;
+}
+
+.report .report-box .infobox-data {
+    width: 75%;
+    float: right;
+}
+
+.report .report-box .infobox-data h3.infobox-title {
+    font-size: 18px;
+    margin: 0;
+}
+
+.report .report-box .infobox-data span.infobox-data-number {
+    font-size: 22px;
+    display: inline-block;
+}
+
+
+.order-btn-calendar button {
+    background-color: #fff;
+    border: 1px solid #0B87C9;
+}
+
+.order-btn-calendar button:focus {
+    border: 1px solid #F59942;
+    outline: none;
+}
+
+.order-btn-calendar button:hover {
+    border: 1px solid #F59942;
+}
+.panel-sear {
+    padding: 10px 0 15px;
+}
+
+.panel-sear select option {
+    padding: 5px 3px;
+}
+ span.infobox-data-number {
+    font-size: 22px;
+    display: inline-block;
+}
+
+.input-group-addon {
+    padding: 11px 15px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
